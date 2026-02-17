@@ -45,4 +45,12 @@ Frontend       SwiftUI, React, HTML/CSS
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanjjayrj/sanjjayrj/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanjjayrj/sanjjayrj/output/snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/sanjjayrj/sanjjayrj/output/snake-dark.svg" />
+</picture>
+
+---
+
 <sub>The best way to predict the future is to build it.</sub>
