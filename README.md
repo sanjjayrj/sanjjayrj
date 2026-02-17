@@ -6,7 +6,7 @@
 
 **Data Scientist. AI Engineer. Builder.**
 
-I build intelligent systems at the intersection of AI, engineering, and product. Currently building **ThisJustIn** — a Gen-AI powered personalized short-form video news platform.
+I build intelligent systems at the intersection of AI, engineering, and product. Currently building **ThisJustIn**: a Gen-AI powered personalized short-form video news platform.
 
 MS in Data Science @ **Stevens Institute of Technology** | BTech in AI @ **Amrita Vishwa Vidyapeetham**
 
@@ -18,9 +18,9 @@ MS in Data Science @ **Stevens Institute of Technology** | BTech in AI @ **Amrit
 
 ### What I'm working on
 
-- **ThisJustIn** — Personalized news with custom political alignment algorithms, E2E encrypted messaging (Signal Protocol), and hybrid AI search. FastAPI + SwiftUI + AWS.
-- **hive** — Outcome-driven agent development framework that evolves.
-- **Research** — Published in the Journal of the Indian Society of Remote Sensing on lunar crater detection using deep learning with Chandrayaan-2 data.
+- **ThisJustIn**: Personalized news with custom political alignment algorithms, E2E encrypted messaging (Signal Protocol), and hybrid AI search. FastAPI + SwiftUI + AWS.
+- **Speech2Speech**: Researching end-to-end speech-to-speech models.
+- **Published research**: Lunar crater detection using deep learning with Chandrayaan-2 data, in the Journal of the Indian Society of Remote Sensing.
 
 ---
 
@@ -39,8 +39,8 @@ Frontend       SwiftUI, React, HTML/CSS
 ### GitHub stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sanjjayrj&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=888888&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjjayrj&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&langs_count=6" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjjayrj&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=222222&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=888888&dates=555555" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanjjayrj&theme=github_dark" />
 </p>
 
 ---
