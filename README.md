@@ -45,7 +45,7 @@ Frontend       SwiftUI, React, HTML/CSS
 
 ---
 
-<img alt="contribution snake" src="https://raw.githubusercontent.com/sanjjayrj/sanjjayrj/output/snake-dark.svg" />
+<img alt="contribution snake" src="https://raw.githubusercontent.com/sanjjayrj/sanjjayrj/output/snake.gif" />
 
 ---
 
