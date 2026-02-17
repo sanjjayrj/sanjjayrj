@@ -17,9 +17,19 @@ jobs:
           github_user_name: sanjjayrj
           outputs: |
             dist/snake-dark.svg?palette=github-dark&color_snake=#ffffff&color_dots=#111,#333,#555,#999,#fff
-            dist/snake.gif?palette=github-dark&color_snake=#ffffff&color_dots=#111,#333,#555,#999,#fff
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Remove progress bar from SVG
+        run: |
+          # Remove rect elements with class "u" (progress bar)
+          sed -i 's/<rect class="u[^"]*"[^/]*\/>//g' dist/snake-dark.svg
+          # Remove .u CSS rules
+          sed -i 's/\.u{[^}]*}//g' dist/snake-dark.svg
+          sed -i 's/\.u[0-9]*{[^}]*}//g' dist/snake-dark.svg
+          # Crop viewBox to hide bottom area (144+ is progress bar)
+          sed -i 's/viewBox="-16 -32 880 192"/viewBox="-16 -32 880 176"/' dist/snake-dark.svg
+          sed -i 's/height="192"/height="176"/' dist/snake-dark.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
