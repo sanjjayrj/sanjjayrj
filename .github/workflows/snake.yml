@@ -22,12 +22,13 @@ jobs:
 
       - name: Remove progress bar from SVG
         run: |
+          sudo chmod -R 777 dist/
           # Remove rect elements with class "u" (progress bar)
-          sed -i 's/<rect class="u[^"]*"[^/]*\/>//g' dist/snake-dark.svg
+          sed -i 's/<rect class="u[^"]*"[^\/]*\/>//g' dist/snake-dark.svg
           # Remove .u CSS rules
           sed -i 's/\.u{[^}]*}//g' dist/snake-dark.svg
           sed -i 's/\.u[0-9]*{[^}]*}//g' dist/snake-dark.svg
-          # Crop viewBox to hide bottom area (144+ is progress bar)
+          # Crop viewBox to hide bottom area
           sed -i 's/viewBox="-16 -32 880 192"/viewBox="-16 -32 880 176"/' dist/snake-dark.svg
           sed -i 's/height="192"/height="176"/' dist/snake-dark.svg
 
