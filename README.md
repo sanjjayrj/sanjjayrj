@@ -19,7 +19,7 @@ MS in Data Science @ **Stevens Institute of Technology** | BTech in AI @ **Amrit
 ### What I'm working on
 
 - **ThisJustIn**: Personalized news with custom political alignment algorithms, E2E encrypted messaging (Signal Protocol), and hybrid AI search. FastAPI + SwiftUI + AWS.
-- **Speech2Speech**: Researching end-to-end speech-to-speech models.
+- **Speech2Speech**: Researching and architecting real-time speech-to-speech indic models.
 - **Published research**: Lunar crater detection using deep learning with Chandrayaan-2 data, in the Journal of the Indian Society of Remote Sensing.
 
 ---
@@ -45,4 +45,4 @@ Frontend       SwiftUI, React, HTML/CSS
 
 ---
 
-<sub>Built with caffeine and curiosity.</sub>
+<sub>The best way to predict the future is to build it.</sub>
