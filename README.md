@@ -4,23 +4,24 @@
 
 # Hey, I'm Sanjay Raju
 
-**Data Scientist. AI Engineer. Builder.**
+**AI Engineer. Founder. Builder.**
 
-I build intelligent systems at the intersection of AI, engineering, and product. Currently building **ThisJustIn**: a Gen-AI powered personalized short-form video news platform.
+I build end-to-end AI systems — from research to production. I work on multiple things at once and ship fast.
 
 MS in Data Science @ **Stevens Institute of Technology** | BTech in AI @ **Amrita Vishwa Vidyapeetham**
 
-[![Portfolio](https://img.shields.io/badge/portfolio-sanjayraju.netlify.app-000?style=flat-square&logo=netlify&logoColor=white)](https://sanjayraju.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/linkedin-sanjayraju5-000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjayraju5)
-[![Email](https://img.shields.io/badge/email-sanjjayrj@gmail.com-000?style=flat-square&logo=gmail&logoColor=white)](mailto:sanjjayrj@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sanjayraju.netlify.app-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://sanjayraju.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sanjayraju5-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjayraju5)
+[![Email](https://img.shields.io/badge/Email-sanjjayrj@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjjayrj@gmail.com)
 
 ---
 
 ### What I'm working on
 
-- **ThisJustIn**: Personalized news with custom political alignment algorithms, E2E encrypted messaging (Signal Protocol), and hybrid AI search. FastAPI + SwiftUI + AWS.
-- **Speech2Speech**: Researching and architecting real-time speech-to-speech indic models.
-- **Published research**: Lunar crater detection using deep learning with Chandrayaan-2 data, in the Journal of the Indian Society of Remote Sensing.
+- **Grimoire**: AI-native workflow automation platform. Describe what you want automated — Grimoire compiles it into a verified, inspectable DAG with Claude as the compiler. Simulation mode, human approval gates, visual DAG editor, WhatsApp-native. [grimoire-automation-app.vercel.app](https://grimoire-automation-app.vercel.app)
+- **Speech2Speech MK1**: Designing the first full-duplex, real-time speech-to-speech translation system for Indian languages — with voice and accent preservation across Tamil, Telugu, Kannada, Malayalam, and Hindi.
+- **ThisJustIn**: Built a Gen-AI powered personalized short-form video news platform — political alignment algorithm, E2E encrypted messaging (Signal Protocol), hybrid BM25 + vector search, iOS + FastAPI + AWS.
+- **Published research**: Lunar crater detection using deep learning on Chandrayaan-2 satellite data, in the Journal of the Indian Society of Remote Sensing.
 
 ---
 
